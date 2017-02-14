@@ -11,6 +11,7 @@
   * X [Character Points](characters/Points.md)
   * [Character Archetypes](characters/Archetypes.md)
   * X [Important Considerations](characters/Considerations.md)
+  * X [Will and Will Points](characters/Will.md)
   * [Powers](characters/Powers.md)
   * [Advantages, Disadvantages, and Skills](characters/Traits.md)
 

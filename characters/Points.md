@@ -6,8 +6,9 @@ Character point break down as follows:
 
  - [350] Points total
  - [-150] Point disadvantage limit, including [-5] for Quirks
- - [40] Point Unusual Background for contact with your first Sphere
- - [10] Points for each additional Sphere after the first
+ - [30] Point Unusual Background for contact with the Spheres and/or TL5^ AlterTech
+ - [10] Points for each Harmony
+ - House Rule: Perception and Will are not based on IQ, but are bought from 10. Note, this is a option checkbox in the GURPS Characters Sheet Preferences.
 
 ## Character Point Archetypes
 
