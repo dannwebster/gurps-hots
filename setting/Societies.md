@@ -1,7 +1,7 @@
 # Setting: Secret Societies
 
 ## Background
-Many Ritual Mages learn through participating in a Tradition. There have been hundreds of Traditions in the history of the world, but only a few dozen survive. Here is a sampling of known Traditions.
+Many Sphere Mages learn through participating in a Secret Society. There have been hundreds of Secret Societies in the history of the world, but only a few dozen survive. Here is a sampling of known Secret Societies.
 
 | Name | 	Culture	| Size	| Mundane Power	| Spheres | Notes |
 |------|------------|-------|---------------|---------|-------|
